@@ -35,7 +35,7 @@ RAC is a Korean dataset contains 8.6k turns within 1.2k conversations. We built 
 }
 ```
 
-The passage collection can be downloaded at [here](https://works.do/587X3HB).
+The passage collection can be downloaded at [here]([https://works.do/587X3HB](https://works.do/xRtd46w)).
 
 
 ## Baseline
