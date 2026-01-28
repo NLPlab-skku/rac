@@ -35,7 +35,12 @@ RAC is a Korean dataset contains 8.6k turns within 1.2k conversations. We built 
 }
 ```
 
-The passage collection can be downloaded at [here](https://works.do/xRtd46w).
+The passage collection can be downloaded at [here](https://huggingface.co/datasets/bgchoi/rac-collection-kr) or easily be downloaded by:
+```python3
+from datasets import load_dataset
+
+collections = load_dataset('bgchoi/rac-collection-kr')
+```
 
 
 ## Baseline
